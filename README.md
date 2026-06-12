@@ -66,13 +66,6 @@ Control hazard detection and handling are currently under development and will b
 
 Simulation verifies correct instruction execution and successful handling of RAW hazards through pipeline stalling.
 
-Example register outputs:
-
-* x5 = 50
-* x6 = 70
-* x7 = 100
-* x8 = 170
-
 Waveform screenshots demonstrating hazard detection and pipeline behavior are included in this repository.
 
 ---
@@ -97,7 +90,4 @@ Waveform screenshots demonstrating hazard detection and pipeline behavior are in
 
 ---
 
-## Author
-
-Kritika Singh
-National Institute of Technology Kurukshetra
+a
